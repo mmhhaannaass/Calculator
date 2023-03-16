@@ -22,4 +22,9 @@ class Calculator
 	{
 		return a - b;
 	}
+	
+	static int Perkalian(int a, intb)
+	{
+		return a * b;
+	}
 }
